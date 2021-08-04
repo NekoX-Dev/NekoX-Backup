@@ -383,7 +383,7 @@ android {
 }
 
 def okHttpVersion = "5.0.0-alpha.2"
-def fcmVersion = "21.1.0"
+def fcmVersion = "22.0.0"
 def crashlyticsVersion = "18.2.0"
 def playCoreVersion = "1.10.0"
 
