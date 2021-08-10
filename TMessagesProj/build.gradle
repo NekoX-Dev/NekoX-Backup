@@ -415,7 +415,7 @@ dependencies {
     implementation 'dnsjava:dnsjava:3.4.0'
     implementation "org.dizitart:nitrite:3.4.3"
 
-    implementation "cn.hutool:hutool-core:5.7.5"
+    implementation "cn.hutool:hutool-core:5.7.7"
     implementation "cn.hutool:hutool-crypto:5.7.5"
     implementation 'cn.hutool:hutool-http:5.7.5'
     implementation "com.jakewharton:process-phoenix:2.0.0"
