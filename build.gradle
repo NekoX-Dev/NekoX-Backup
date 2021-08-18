@@ -12,7 +12,7 @@ buildscript {
         classpath 'com.google.firebase:firebase-crashlytics-gradle:2.7.1'
         classpath 'gradle.plugin.org.mozilla.rust-android-gradle:plugin:0.8.3'
         //noinspection GradleDependency
-        classpath "com.github.triplet.gradle:play-publisher:3.4.0-agp4.2"
+        classpath "com.github.triplet.gradle:play-publisher:3.6.0"
         classpath 'cn.hutool:hutool-core:5.7.5'
     }
 }
