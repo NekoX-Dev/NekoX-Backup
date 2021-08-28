@@ -216,4 +216,37 @@
     <string name="HideDeviceInfoOff">O modelo do dispositivo será enviado na segunda vez que o app for iniciado após o login.</string>
     <string name="HideDeviceInfo">Ocultar modelo do dispositivo</string>
     <string name="DisableTrending">Desativar Tendências</string>
+    <string name="ImportSettingsAlert">Tem certeza de que deseja substituir as configurações\? Importar configurações de fontes desconhecidas pode fazer com que o PIN seja sobrescrito e fazer com que o aplicativo seja bloqueado.</string>
+    <string name="AutoCheckUpdateRc">Candidato a Lançamento</string>
+    <string name="AutoCheckUpdateStable">Estável</string>
+    <string name="AutoCheckUpdateSwitch">Atualização Automática</string>
+    <string name="AutoCheckUpdateOFF">DESLIGADO</string>
+    <string name="VersionUpdateNoUpdate">Nenhuma atualização.</string>
+    <string name="VersionUpdateNotNow">Agora não</string>
+    <string name="VersionUpdateIgnore">Ignorar</string>
+    <string name="VersionUpdateConfirm">ATUALIZAR</string>
+    <string name="VersionUpdateVariantNotMatch">As variantes de versão não correspondem automaticamente.
+\nFaça o download manualmente no GitHub.</string>
+    <string name="VersionUpdateTitle">Nova Versão Disponível</string>
+    <string name="nekoXPaymentRemovedToast">A função de pagamento foi removida.</string>
+    <string name="ImportSettings">Configurações de Importação</string>
+    <string name="BackupSettings">Configurações de backup</string>
+    <string name="AutoLockImmediately">Imediatamente</string>
+    <string name="WsPayload">Payload</string>
+    <string name="ProxyInfoWS">Configurações de WebSocket Relay</string>
+    <string name="AddProxyWs">Adicionar WebSocket Relay</string>
+    <string name="DisplayPersianCalendarByLatin">Exibir calendário persa por latim</string>
+    <string name="UsePersiancalendarInfo">Exibir data com calendário Solar Hijri</string>
+    <string name="UsePersiancalendar">Usar calendário persa</string>
+    <string name="AppLinkFDroid">F-Droid</string>
+    <string name="SetPinnedSuffix">(Fixado)</string>
+    <string name="UnpinSticker">Desfixar</string>
+    <string name="PinSticker">Fixar</string>
+    <string name="EnableStickerPinTip">Esta função ainda está em desenvolvimento, a sincronização com a nuvem pode não funcionar como se pensava.</string>
+    <string name="EnableStickerPinAbout">Fixe os stickers e sincronize com a nuvem, mesmo ao adicionar novos stickers..
+\nEmparelhado com Desativar Favorito e Recente.</string>
+    <string name="EnableStickerPin">Ativar Fixação de Sticker</string>
+    <string name="ArchiveFiles">Arquivos de arquivo</string>
+    <string name="Win32ExecutableFiles">Arquivos executáveis Win32</string>
+    <string name="AutoDownload">DownloadAuto</string>
 </resources>

@@ -52,7 +52,7 @@
     <string name="StickerSizeDialogName">Duang</string>
     <string name="Experiment">Experimental</string>
     <string name="UnlimitedFavoredStickers">Stickers favoritos ilimitados</string>
-    <string name="UnlimitedFavoredStickersAbout">Adicione adesivos ilimitados aos favoritos. Os adesivos podem não estar sincronizados com outros dispositivos</string>
+    <string name="UnlimitedFavoredStickersAbout">Adicionar stickers ilimitados aos favoritos. Os stickers podem não estar sincronizados com outros dispositivos.</string>
     <string name="MessageDetails">Detalhes</string>
     <string name="ExportAsJson">Exportar como JSON</string>
     <string name="Translate">Traduzir</string>
@@ -99,7 +99,7 @@
     <string name="BetaWarning">Esse é um recurso **beta** implementado pelo **Telegram**.</string>
     <string name="MediaPreview">Pré-visualizar mídia na lista de diálogo</string>
     <string name="AutoPauseVideo">Pausar vídeo automaticamente</string>
-    <string name="AutoPauseVideoAbout">Quando bloquear a tela/Alternar para segundo plano</string>
+    <string name="AutoPauseVideoAbout">Quando bloquear a tela/Alternar para segundo plano.</string>
     <string name="DisableProximityEvents">Desativar eventos de proximidade</string>
     <string name="IncreaseVoiceMessageQuality">Aumentar a qualidade das mensagens de voz</string>
     <string name="SelectBetween">Selecione entre</string>
@@ -110,8 +110,12 @@
     <string name="ProviderMicrosoftTranslator">Tradutor Microsoft</string>
     <string name="ProviderYouDao">Traduzir YouDao</string>
     <string name="pressTitleToOpenAllChats">Pressione o título para abrir a guia \"Todos os bate-papos\"</string>
-    <string name="HideTimeForSticker">Ocultar tempo para adesivos</string>
+    <string name="HideTimeForSticker">Ocultar tempo para stickers</string>
     <string name="UseMediaStreamInVoip">Usar stream de mídia em Voip</string>
     <string name="TakeGIFasVideo">Detectar GIF como Vídeo</string>
-    <string name="DontSendGreetingSticker">Não enviar adesivo de saudação</string>
+    <string name="DontSendGreetingSticker">Não enviar sticker de saudação</string>
+    <string name="maxRecentStickerCount">Máximo de Stickers Recentes</string>
+    <string name="customGroupVoipAudioBitrate">Taxa de Bits de Áudio do Grupo Voip</string>
+    <string name="customDoH">DoH personalizado</string>
+    <string name="useSystemDNS">Usar DNS do sistema</string>
 </resources>
