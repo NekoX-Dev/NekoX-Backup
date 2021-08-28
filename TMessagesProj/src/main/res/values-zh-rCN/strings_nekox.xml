@@ -234,4 +234,6 @@
     <string name="ProxyInfoWS">WebSocket 中继设置</string>
     <string name="WsPayload">Payload</string>
     <string name="AutoLockImmediately">立即</string>
+    <string name="ImportSettings">导入设置</string>
+    <string name="BackupSettings">备份设置</string>
 </resources>
