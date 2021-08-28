@@ -110,4 +110,12 @@
     <string name="ProviderMicrosoftTranslator">مترجم مایکروسافت</string>
     <string name="ProviderYouDao">مترجم YouDao</string>
     <string name="pressTitleToOpenAllChats">لمس عنوان برای بازکردن تب \"همه گفتگو‌ها\"</string>
+    <string name="maxRecentStickerCount">حداکثر استیکرهای اخیر</string>
+    <string name="customGroupVoipAudioBitrate">نرخ بیت صدای گفتگوی صوتی</string>
+    <string name="customDoH">DoH سفارشی</string>
+    <string name="useSystemDNS">استفاده از DNS سیستم</string>
+    <string name="HideTimeForSticker">مخفی کردن زمان برای استیکرها</string>
+    <string name="UseMediaStreamInVoip">استفاده از حالت صدای رسانه در تماس</string>
+    <string name="TakeGIFasVideo">نمایش گیف بصورت ویدیو</string>
+    <string name="DontSendGreetingSticker">عدم ارسال استیکر خوش‌آمد گویی</string>
 </resources>
